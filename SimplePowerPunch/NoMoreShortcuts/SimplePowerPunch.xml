@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<NMS>
+	<Phone>
+		<ContactName>Simple Power Punch</ContactName>
+		<ContactIcon>CHAR_SOCIAL_CLUB</ContactIcon>
+		<Key>F10</Key>
+	</Phone>
+</NMS>
